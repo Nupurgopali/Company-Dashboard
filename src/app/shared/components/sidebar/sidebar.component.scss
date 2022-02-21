@@ -1,0 +1,28 @@
+:host{
+    .mat-icon{
+        vertical-align: middle;
+        margin-right: 10px;
+    }
+}
+.profile-card
+{
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    img{
+        width: 200px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 80%;
+    }
+}
+h4,a{
+    font-family: 'Alegreya', serif;
+    font-size:18px;
+    color:grey;
+
+}
+h2{
+    font-family: 'Alegreya', serif;
+    font-size:22px;
+    color:grey;
+}
